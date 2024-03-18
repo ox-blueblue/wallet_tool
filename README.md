@@ -1,7 +1,7 @@
-# wallet_tool [![Version][version-badge]][version-link] ![MIT License][license-badge]
+# wallet_tool
 
-This is a web3 wallet operation tool
-okx wallet is currently supported, additional wallet operations will continue to be added in the future
+这是一个web3钱包操作工具
+Okx钱包目前支持，其他钱包操作将在未来继续添加
 
 ### 使用方式
 
@@ -24,5 +24,5 @@ $ pip install wallet_tool
 
 ### License
 
-[MIT](https://github.com/pythonml/wallet_tool/blob/master/LICENSE)
+[MIT](https://github.com/embzheng/wallet_tool?tab=MIT-1-ov-file)
 
