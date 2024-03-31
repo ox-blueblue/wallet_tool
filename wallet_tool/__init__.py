@@ -1,2 +1,2 @@
-from wallet import *
+from wallet_tool import *
 
